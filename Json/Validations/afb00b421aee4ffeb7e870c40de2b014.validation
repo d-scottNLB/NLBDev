@@ -1,0 +1,11 @@
+{
+  "KindId": "93957a02-6339-44a1-9323-8e8cd754680b",
+  "Id": "afb00b42-1aee-4ffe-b7e8-70c40de2b014",
+  "Path": [
+    "e19ab439-ce99-4709-9d4a-d4f354d97fac",
+    "afb00b42-1aee-4ffe-b7e8-70c40de2b014"
+  ],
+  "Alias": "MustFill",
+  "Name": "MustFill",
+  "Data": "{\r\n  \"message\": \"You must enter an email address before submitting.\"\r\n}"
+}

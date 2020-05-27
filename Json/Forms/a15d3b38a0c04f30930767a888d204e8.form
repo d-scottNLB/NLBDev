@@ -1,0 +1,177 @@
+{
+  "Id": "a15d3b38-a0c0-4f30-9307-67a888d204e8",
+  "Path": [
+    "3d634e15-7d15-45fa-a8a9-12838fa3a345",
+    "a15d3b38-a0c0-4f30-9307-67a888d204e8"
+  ],
+  "Alias": "ContactUs",
+  "Name": "Contact Us",
+  "Fields": [
+    {
+      "Id": "ac89043f-8d3b-4b55-8852-f77696ff41e6",
+      "Alias": "Header",
+      "Name": "Header",
+      "Label": "Header",
+      "Category": "Standard",
+      "Validations": [],
+      "MetaInfo": null,
+      "FieldConfiguration": "{\r\n  \"text\": \"Broker Contact Form\"\r\n}",
+      "TypeId": "6383dd2c-68bd-482b-95db-811d09d01bc8",
+      "IsTransitory": true,
+      "IsServerSideOnly": false,
+      "IsHidden": false,
+      "IsStored": false
+    },
+    {
+      "Id": "9e90fb6e-788f-4127-945c-24a494ab5da8",
+      "Alias": "Directions",
+      "Name": "Directions",
+      "Label": "Directions",
+      "Category": "Standard",
+      "Validations": [],
+      "MetaInfo": null,
+      "FieldConfiguration": "{\r\n  \"text\": \"<p>Provide the following information and a representative from Nippon Life Benefits will be in touch!</p>\"\r\n}",
+      "TypeId": "6fcdfdc9-293f-4913-b762-f4ba502216eb",
+      "IsTransitory": true,
+      "IsServerSideOnly": false,
+      "IsHidden": false,
+      "IsStored": false
+    },
+    {
+      "Id": "69c5446d-7b6d-49da-bf52-83617d0d6e5c",
+      "Alias": "Name",
+      "Name": "Name",
+      "Label": "Enter Your Name",
+      "Category": "Standard",
+      "Validations": [],
+      "MetaInfo": null,
+      "FieldConfiguration": "{}",
+      "TypeId": "17906580-86ea-440b-bc30-9e1b099f803b",
+      "IsTransitory": false,
+      "IsServerSideOnly": false,
+      "IsHidden": false,
+      "IsStored": true
+    },
+    {
+      "Id": "9b42e9a9-1b62-4618-8100-72adbe45631a",
+      "Alias": "Email",
+      "Name": "Email",
+      "Label": "Enter Email Address",
+      "Category": "Standard",
+      "Validations": [
+        "e204d591-e2be-421e-8e25-bf17494acbbd",
+        "afb00b42-1aee-4ffe-b7e8-70c40de2b014"
+      ],
+      "MetaInfo": null,
+      "FieldConfiguration": "{}",
+      "TypeId": "17906580-86ea-440b-bc30-9e1b099f803b",
+      "IsTransitory": false,
+      "IsServerSideOnly": false,
+      "IsHidden": false,
+      "IsStored": true
+    },
+    {
+      "Id": "a063283e-4d8c-4fd2-b3d0-e5141f66248b",
+      "Alias": "Address",
+      "Name": "Address",
+      "Label": "Enter Your Address",
+      "Category": "Standard",
+      "Validations": [],
+      "MetaInfo": null,
+      "FieldConfiguration": "{}",
+      "TypeId": "17906580-86ea-440b-bc30-9e1b099f803b",
+      "IsTransitory": false,
+      "IsServerSideOnly": false,
+      "IsHidden": false,
+      "IsStored": true
+    },
+    {
+      "Id": "874d032f-a440-4d96-916c-58442b5a55ee",
+      "Alias": "State",
+      "Name": "State",
+      "Label": "Choose Your State",
+      "Category": "Standard",
+      "Validations": [],
+      "MetaInfo": null,
+      "FieldConfiguration": "{\r\n  \"dataValue\": \"d9520b0ade8f4c88b020a850a6dd0eb4\"\r\n}",
+      "TypeId": "6d3df157-1bc4-4fcf-b2b7-0a94fe719b47",
+      "IsTransitory": false,
+      "IsServerSideOnly": false,
+      "IsHidden": false,
+      "IsStored": true
+    },
+    {
+      "Id": "7bd3de73-b8b7-4b43-9746-2feb079b219e",
+      "Alias": "PleaseNote",
+      "Name": "PleaseNote",
+      "Label": "PleaseNote",
+      "Category": "Standard",
+      "Validations": [],
+      "MetaInfo": null,
+      "FieldConfiguration": "{\r\n  \"text\": \"<p><strong><span style=\\\"color: red;\\\">Please Note: </span></strong>Nippon Life Benefits does not service the following states: X, Y, Z</p>\"\r\n}",
+      "TypeId": "6fcdfdc9-293f-4913-b762-f4ba502216eb",
+      "IsTransitory": true,
+      "IsServerSideOnly": false,
+      "IsHidden": false,
+      "IsStored": false
+    },
+    {
+      "Id": "3996d673-0017-4587-a089-6c2c153f044d",
+      "Alias": "ZipCode",
+      "Name": "ZipCode",
+      "Label": "Enter Zip Code",
+      "Category": "Standard",
+      "Validations": [],
+      "MetaInfo": null,
+      "FieldConfiguration": "{}",
+      "TypeId": "17906580-86ea-440b-bc30-9e1b099f803b",
+      "IsTransitory": false,
+      "IsServerSideOnly": false,
+      "IsHidden": false,
+      "IsStored": true
+    },
+    {
+      "Id": "4132b150-7e77-4421-9a50-fd4981a43a7c",
+      "Alias": "Question",
+      "Name": "Question",
+      "Label": "What can we help you with?",
+      "Category": "Standard",
+      "Validations": [
+        "afb00b42-1aee-4ffe-b7e8-70c40de2b014"
+      ],
+      "MetaInfo": null,
+      "FieldConfiguration": "{}",
+      "TypeId": "9da84359-4d0b-4944-9144-9f8ccae7a4da",
+      "IsTransitory": false,
+      "IsServerSideOnly": false,
+      "IsHidden": false,
+      "IsStored": true
+    },
+    {
+      "Id": "460c471c-4351-4cde-b4ce-eac26f402feb",
+      "Alias": "NLBSubmit",
+      "Name": "NLBSubmit",
+      "Label": "Get in Touch",
+      "Category": "Standard",
+      "Validations": [],
+      "MetaInfo": null,
+      "FieldConfiguration": "{\r\n  \"buttonKind\": \"Submit\"\r\n}",
+      "TypeId": "cde8565c-5e92-4112-9a1f-7ffa1940c53c",
+      "IsTransitory": true,
+      "IsServerSideOnly": false,
+      "IsHidden": false,
+      "IsStored": true
+    }
+  ],
+  "Handlers": [
+    {
+      "Id": "9f26f79f-fddb-46e3-b83d-71755ac3f157",
+      "Alias": "NLBEmailUs",
+      "Name": "NLBEmailUs",
+      "Enabled": true,
+      "HandlerConfiguration": "{\r\n  \"recipients\": [\r\n    {\r\n      \"email\": \"d-scott@nipponlifebenefits.com\"\r\n    },\r\n    {\r\n      \"email\": \"j-lee@nipponlifebenefits.com\"\r\n    }\r\n  ],\r\n  \"recipientFields\": [\r\n    {\r\n      \"id\": \"9b42e9a91b624618810072adbe45631a\"\r\n    },\r\n    {\r\n      \"id\": \"4132b1507e7744219a50fd4981a43a7c\"\r\n    }\r\n  ],\r\n  \"fieldsToInclude\": [],\r\n  \"senderEmail\": \"do-not-reply@nipponlifebenefits.com\",\r\n  \"deliveryType\": \"to\",\r\n  \"subject\": \"A New \\\"Contact Us\\\" Form Has been submitted!\",\r\n  \"message\": \"A New \\\"Contact Us\\\" Form Has been submitted!\",\r\n  \"appendFields\": true\r\n}",
+      "TypeId": "a0c06033-cb94-424f-9c03-5b10a420db16"
+    }
+  ],
+  "MetaInfo": null
+}

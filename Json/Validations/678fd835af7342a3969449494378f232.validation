@@ -1,0 +1,11 @@
+{
+  "KindId": "ac9a464f-6f3f-4af9-a3b2-9c85ff0c5580",
+  "Id": "678fd835-af73-42a3-9694-49494378f232",
+  "Path": [
+    "e19ab439-ce99-4709-9d4a-d4f354d97fac",
+    "678fd835-af73-42a3-9694-49494378f232"
+  ],
+  "Alias": "PhoneNbr",
+  "Name": "Phone",
+  "Data": "{\r\n  \"regex\": \"^[+]*[(]{0,1}[0-9]{1,4}[)]{0,1}[-\\\\s\\\\./0-9]*$\",\r\n  \"message\": \"Phone must be in the format (###) ###-####.\"\r\n}"
+}

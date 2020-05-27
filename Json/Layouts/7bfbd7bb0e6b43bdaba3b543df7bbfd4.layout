@@ -1,0 +1,11 @@
+{
+  "KindId": "b03310e9-3207-44dc-be96-be0cf4f26c59",
+  "Id": "7bfbd7bb-0e6b-43bd-aba3-b543df7bbfd4",
+  "Path": [
+    "f92ac99b-a3f2-4734-a91f-87f84f47a73a",
+    "7bfbd7bb-0e6b-43bd-aba3-b543df7bbfd4"
+  ],
+  "Alias": "NLBFormLayout",
+  "Name": "NLBFormLayout",
+  "Data": "{\r\n  \"rows\": [\r\n    {\r\n      \"cells\": [\r\n        {\r\n          \"columnSpan\": 12,\r\n          \"fields\": [\r\n            {\r\n              \"id\": \"ac89043f8d3b4b558852f77696ff41e6\"\r\n            },\r\n            {\r\n              \"id\": \"9e90fb6e788f4127945c24a494ab5da8\"\r\n            },\r\n            {\r\n              \"id\": \"69c5446d7b6d49dabf5283617d0d6e5c\"\r\n            },\r\n            {\r\n              \"id\": \"9b42e9a91b624618810072adbe45631a\"\r\n            },\r\n            {\r\n              \"id\": \"a063283e4d8c4fd2b3d0e5141f66248b\"\r\n            },\r\n            {\r\n              \"id\": \"874d032fa4404d96916c58442b5a55ee\"\r\n            },\r\n            {\r\n              \"id\": \"7bd3de73b8b74b4397462feb079b219e\"\r\n            },\r\n            {\r\n              \"id\": \"3996d67300174587a0896c2c153f044d\"\r\n            },\r\n            {\r\n              \"id\": \"4132b1507e7744219a50fd4981a43a7c\"\r\n            },\r\n            {\r\n              \"id\": \"460c471c43514cdeb4ceeac26f402feb\"\r\n            }\r\n          ]\r\n        }\r\n      ]\r\n    }\r\n  ],\r\n  \"formId\": \"a15d3b38a0c04f30930767a888d204e8\"\r\n}"
+}

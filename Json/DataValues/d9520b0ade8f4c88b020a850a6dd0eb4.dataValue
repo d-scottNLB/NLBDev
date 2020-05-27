@@ -1,0 +1,12 @@
+{
+  "KindId": "3106d817-abfc-4d46-a9b1-aba8b8f87f39",
+  "Id": "d9520b0a-de8f-4c88-b020-a850a6dd0eb4",
+  "Path": [
+    "0461c41c-04a3-417b-90d6-3ce2ae7b67f1",
+    "7ba53163-2635-43a2-82f2-507c6ff1319a",
+    "d9520b0a-de8f-4c88-b020-a850a6dd0eb4"
+  ],
+  "Alias": "States",
+  "Name": "States",
+  "Data": "{\r\n  \"items\": [\r\n    {\r\n      \"value\": \"CA\"\r\n    },\r\n    {\r\n      \"value\": \"CO\"\r\n    },\r\n    {\r\n      \"value\": \"GA\"\r\n    },\r\n    {\r\n      \"value\": \"IL\"\r\n    },\r\n    {\r\n      \"value\": \"IN\"\r\n    },\r\n    {\r\n      \"value\": \"KY\"\r\n    },\r\n    {\r\n      \"value\": \"MI\"\r\n    },\r\n    {\r\n      \"value\": \"NJ\"\r\n    },\r\n    {\r\n      \"value\": \"NY\"\r\n    },\r\n    {\r\n      \"value\": \"OH\"\r\n    },\r\n    {\r\n      \"value\": \"PA\"\r\n    },\r\n    {\r\n      \"value\": \"SC\"\r\n    },\r\n    {\r\n      \"value\": \"TN\"\r\n    },\r\n    {\r\n      \"value\": \"TX\"\r\n    },\r\n    {\r\n      \"value\": \"WI\"\r\n    }\r\n  ]\r\n}"
+}

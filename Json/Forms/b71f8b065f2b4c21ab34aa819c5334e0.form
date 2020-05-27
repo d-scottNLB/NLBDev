@@ -1,0 +1,88 @@
+{
+  "Id": "b71f8b06-5f2b-4c21-ab34-aa819c5334e0",
+  "Path": [
+    "3d634e15-7d15-45fa-a8a9-12838fa3a345",
+    "b71f8b06-5f2b-4c21-ab34-aa819c5334e0"
+  ],
+  "Alias": "TestConditionalForm",
+  "Name": "SalesForceForm",
+  "Fields": [
+    {
+      "Id": "68c419c5-a53d-48fe-a39b-3ceb226eaff5",
+      "Alias": "state",
+      "Name": "state",
+      "Label": "State",
+      "Category": "Standard",
+      "Validations": [],
+      "MetaInfo": null,
+      "FieldConfiguration": "{\r\n  \"dataValue\": \"d9520b0ade8f4c88b020a850a6dd0eb4\"\r\n}",
+      "TypeId": "6d3df157-1bc4-4fcf-b2b7-0a94fe719b47",
+      "IsTransitory": false,
+      "IsServerSideOnly": false,
+      "IsHidden": false,
+      "IsStored": true
+    },
+    {
+      "Id": "8f92dc61-b539-40e2-8149-7c2f95ef031d",
+      "Alias": "submit",
+      "Name": "submit",
+      "Label": "Submit",
+      "Category": "Standard",
+      "Validations": [],
+      "MetaInfo": null,
+      "FieldConfiguration": "{\r\n  \"buttonKind\": \"Submit\"\r\n}",
+      "TypeId": "cde8565c-5e92-4112-9a1f-7ffa1940c53c",
+      "IsTransitory": true,
+      "IsServerSideOnly": false,
+      "IsHidden": false,
+      "IsStored": true
+    },
+    {
+      "Id": "a9f630e5-14bb-4fd6-8d26-ae8bcfa6d8d1",
+      "Alias": "checkbox1",
+      "Name": "checkbox1",
+      "Label": "checkbox1",
+      "Category": "Standard",
+      "Validations": [],
+      "MetaInfo": null,
+      "FieldConfiguration": "{}",
+      "TypeId": "99c1a656-c7a6-44ac-a787-c18593327310",
+      "IsTransitory": false,
+      "IsServerSideOnly": false,
+      "IsHidden": false,
+      "IsStored": true
+    },
+    {
+      "Id": "a155aa5a-1985-47cf-9925-9d0bf63e98cc",
+      "Alias": "checkbox2",
+      "Name": "checkbox2",
+      "Label": "checkbox2",
+      "Category": "Standard",
+      "Validations": [],
+      "MetaInfo": null,
+      "FieldConfiguration": "{}",
+      "TypeId": "99c1a656-c7a6-44ac-a787-c18593327310",
+      "IsTransitory": false,
+      "IsServerSideOnly": false,
+      "IsHidden": false,
+      "IsStored": true
+    },
+    {
+      "Id": "38bccaa0-7670-4b7f-aaea-b62300b23bf1",
+      "Alias": "checkbox3",
+      "Name": "checkbox3",
+      "Label": "checkbox3",
+      "Category": "Standard",
+      "Validations": [],
+      "MetaInfo": null,
+      "FieldConfiguration": "{}",
+      "TypeId": "99c1a656-c7a6-44ac-a787-c18593327310",
+      "IsTransitory": false,
+      "IsServerSideOnly": false,
+      "IsHidden": false,
+      "IsStored": true
+    }
+  ],
+  "Handlers": [],
+  "MetaInfo": null
+}
